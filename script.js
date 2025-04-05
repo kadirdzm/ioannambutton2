@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "i love too my loveeeee im sending a lot of kissss 😘😘😘😘😘😘😘😘😘";
+  question.innerHTML = "tamammm i will fuck after kiss";
   gif.src =
     "https://media1.giphy.com/media/iCVzZwwE6QNAV2tEE0/giphy.gif";
 });
